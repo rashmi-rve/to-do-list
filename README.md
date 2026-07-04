@@ -28,15 +28,15 @@ A simple Node.js to-do list application used as a hands-on reference for a full 
 to-do-list/
 ├── DevSecOps/               # Security scanning & DevSecOps pipeline config
 ├── k8s/                     # Raw Kubernetes manifests
-├── kustomize/                # Kustomize overlays for different environments
-├── terraform/                # Terraform configs for infrastructure provisioning
-├── views/                    # EJS templates for the web UI
-├── app.js                    # Application entry point
-├── test.js                   # Test suite
-├── Dockerfile                 # Container image definition
-├── docker-compose.yaml        # Local multi-container setup
-├── Jenkinsfile                 # CI/CD pipeline definition
-├── package.json                 # Node.js dependencies & scripts
+├── kustomize/               # Kustomize overlays for different environments
+├── terraform/               # Terraform configs for infrastructure provisioning
+├── views/                   # EJS templates for the web UI
+├── app.js                   # Application entry point
+├── test.js                  # Test suite
+├── Dockerfile               # Container image definition
+├── docker-compose.yaml      # Local multi-container setup
+├── Jenkinsfile              # CI/CD pipeline definition
+├── package.json             # Node.js dependencies & scripts
 └── README.md
 ```
 
